@@ -1,1 +1,1 @@
-C:/Users/user/Desktop/ifc_models/4walls.ifc
+C:/Users/user/Desktop/ifc_models/whole building.ifc
