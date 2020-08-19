@@ -1,2 +1,0 @@
-1. Path to the ifc file has been saved in path.txt file
-2. editMaterials app has reported that retriveWalls.exe ahs finished work and sth has changed

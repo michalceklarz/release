@@ -1,1 +1,0 @@
-6. user pressed edit materials button and edit materials window has been called

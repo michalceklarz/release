@@ -1,2 +1,0 @@
-1. changes to the material of the object has been confirmed by pressing OK button and ifcWrite.exe has been called
-2. editMaterials app has reported that ifcWrite.exe has finished work
